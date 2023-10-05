@@ -50,12 +50,12 @@ form input.operator{
    color: aqua;
 }
 
-@media only screen and (max-width: 400px){
+@media only screen and (max-width: 490px){
     .calculator{
-        width: 450px;
+        width: 420px;
         height: 530px;
-        margin-left: 5px;
-        margin-right: 5px;
+        margin-left: 8px;
+        margin-right: 8px;
     }
     .calculator form input{
         border: 0;

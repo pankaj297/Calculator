@@ -50,18 +50,18 @@ form input.operator{
    color: aqua;
 }
 
-@media only screen and (max-width: 490px){
+@media only screen and (max-width: 370px){
     .calculator{
-        width: 450px;
-        height: 520px;
+        width: 400px;
+        height: 510px;
         margin-left: 8px;
         margin-right: 8px;
     }
     .calculator form input{
         border: 0;
         outline: 0;
-        width: 57px;
-        height: 57px;
+        width: 60px;
+        height: 60px;
         border-radius: 12px;
         background: transparent;
         font-size: 20px;
